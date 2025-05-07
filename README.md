@@ -12,7 +12,7 @@ This repository includes a configuration to set up a SML development environment
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/Whitomtit/VSCode-SML.git
+    git clone https://github.com/Technion-Programming-Languages/VSCode-SML.git
     cd VSCode-SML
     ```
 
